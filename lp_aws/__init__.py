@@ -1,0 +1,3 @@
+aws_access_key_id_value='AKIAR3JKDIBY4GQKWQKN'
+aws_secret_access_key_value='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'
+region_name="us-east-1"
