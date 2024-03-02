@@ -155,7 +155,7 @@ cython_debug/
 
 
 #
-git update-index --skip-worktree config.properties
+* config.properties
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
